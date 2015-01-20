@@ -1,0 +1,8 @@
+Microsoft Visual Studio
+This IDE is mostly used by corporate programmers to produce .NET code.I has automatic code formatting.
+
+Eclipse
+Very good alternative if you are not a big fan of Microsoft’s Visual Studio.You can use use languages such as Ruby, C, C++ and many many more.This IDE is free.
+
+Netbeans
+The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus.I is also free like Eclipse.

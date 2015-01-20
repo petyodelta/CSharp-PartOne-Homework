@@ -1,0 +1,10 @@
+Some of the most popular programming languages now are Java, C++, C#, Python, Java Script and PHP.
+
+Java and C# are both object-oriented languages.Both are designed with runtime conpilation and use garbage-collection. There are differencies like Java does not feature unsigned integer types.
+
+C++ and C# are object-oriented. C++ does not have garbage collector.
+
+Python is cross platform language unlike C#. C# is quicker than Python. Both use runtime conpilation.
+
+Java Script is dynamically typed language. C# is static typed. Unlike C# which has one equality operator [==], JavaScript has two [== and ===].
+ 
